@@ -1,0 +1,1 @@
+这些VBA代码的主要作用是实现docx、xlsx、pptx文件的批量格式转化以及合并，需要在Microsoft Word\Excel\PowerPoint中按Alt+F11启动VB开发环境，再把这里提供的代码粘贴进去运行，并未测试在金山WPS中能否正常运行。
